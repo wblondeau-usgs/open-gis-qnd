@@ -1,4 +1,4 @@
-open-gis-qnd
+The Quick and Dirty Guide to OpenGIS Services
 ============
 
 The Quick And Dirty guide to various open GIS specifications
@@ -23,3 +23,9 @@ There are certain deliberate, systematic omissions in this guide:
  - Where important operations are specified in both [SOAP](http://en.wikipedia.org/wiki/SOAP) and URL-parameter request form, the SOAP form will be ignored. That's because this guide considers SOAP to be both obsolete and regrettable.
 
  - This guide will prioritize read/query operations over operations that are expected to cause state changes on the server. This is because this kind of initial orientation to the material is much more appropriate to (in RESTful terms) GET (and possibly HEAD) methods. Anyone wishing to perform transactional updates should really seriously study the normative specifications.
+
+##The Services
+
+ - **[Common Service Operations](services/common_operations.md):** Many Services share recurring operational components. Those are described here.
+ - **[Web Map Service (WMS)](services/WMS.md):** Ask a question, get a map displaying the answers.
+ 
