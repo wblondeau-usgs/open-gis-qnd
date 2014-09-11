@@ -26,6 +26,6 @@ There are certain deliberate, systematic omissions in this guide:
 
 ##The Services
 
- - **[Common Service Operations](services/common_operations.md):** Many Services share recurring operational components. Those are described here.
- - **[Web Map Service (WMS)](services/WMS.md):** Ask a question, get a map displaying the answers.
+ - **[Common Service Operations](./services/common_operations.md):** Many Services share recurring operational components. Those are described here.
+ - **[Web Map Service (WMS)](./services/WMS.md):** Ask a question, get a map displaying the answers.
  
